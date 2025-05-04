@@ -1,4 +1,3 @@
-
 # Kubernetes Showcase Project with Bazel
 
 This project demonstrates various Kubernetes features using a microservices architecture with Bazel as the build system, deployed with Kind/Minikube and managed with modern DevOps practices.
